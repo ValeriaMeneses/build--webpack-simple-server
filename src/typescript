@@ -1,0 +1,82 @@
+Script started on Mon Oct 23 10:29:39 2017
+
+[1m[7m%[27m[1m[0m                                                                                ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries/src]1;..countries/src[0m[27m[24m[J[01;32m➜  [36msrc[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries/src]1;..countries/src[0m[27m[24m[J[01;32m➜  [36msrc[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hsscr
+[J[0mSCREEN_NO     [Jscreendump    [Jscript        [Jscriptreplay  [J[01;34mscripts[0m/    [J[A[0m[27m[24m[26Cscr[KSCREEN_NO[1m=[0m
+[J[7mSCREEN_NO   [0m  [Jscreendump    [Jscript        [Jscriptreplay  [J[01;34mscripts[0m/    [J[A[0m[27m[24m[26CSCREEN_NO[1m=[0m[K
+[7mSCREEN_NO   [0m  [7mSCREEN_NO   [0m  [A[0m[27m[24m[26CSCREEN_NO[1m=[0m[K[10Dscreendum[0mp
+[14C[7mscreendump  [0m  SCREEN_NO     [A[0m[27m[24m[26Cscreendump[Kipt    
+[28C[7mscript      [0m  [14Cscreendump    [A[0m[27m[24m[26Cscript[Kreplay
+[42C[7mscriptreplay[0m  [28Cscript        [A[0m[27m[24m[26Cscriptreplay[Ks[1m/[0m    
+[56C[7mscripts/    [0m[42Cscriptreplay  [A[0m[27m[24m[26Cscripts[1m/[0m[K
+[J[A[34C[0m [?1l>[?2004l
+[J]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries/src/scripts]1;..s/src/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;lsapp.js  [0m[01;34mtemplateViews[0m
+[1m[7m%[27m[1m[0m                                                                                ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries/src/scripts]1;..s/src/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004httemplateViews[1m/[0m[0m [?1l>[?2004l
+]2;templateViews]1;templateViews[1m[7m%[27m[1m[0m                                                                                ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries/src/scripts/templateViews]1;..templateViews[0m[27m[24m[J[01;32m➜  [36mtemplateViews[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;lsallCountries.js  enCountries.js  esCountries.js  frCountries.js  ptCountries.js
+[1m[7m%[27m[1m[0m                                                                                ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries/src/scripts/templateViews]1;..templateViews[0m[27m[24m[J[01;32m➜  [36mtemplateViews[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hrrm enCountries.js[1m [0m[0m [?1l>[?2004l
+]2;rm enCountries.js]1;rm[1m[7m%[27m[1m[0m                                                                                ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries/src/scripts/templateViews]1;..templateViews[0m[27m[24m[J[01;32m➜  [36mtemplateViews[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;lsallCountries.js  esCountries.js  frCountries.js  ptCountries.js
+[1m[7m%[27m[1m[0m                                                                                ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries/src/scripts/templateViews]1;..templateViews[0m[27m[24m[J[01;32m➜  [36mtemplateViews[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hrrm frCountries.js[1m [0m[0m [?1l>[?2004l
+]2;rm frCountries.js]1;rm[1m[7m%[27m[1m[0m                                                                                ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries/src/scripts/templateViews]1;..templateViews[0m[27m[24m[J[01;32m➜  [36mtemplateViews[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hrror rm ptCountries.js[1m [0m[0m [?1l>[?2004l
+]2;rm ptCountries.js]1;rm[1m[7m%[27m[1m[0m                                                                                ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries/src/scripts/templateViews]1;..templateViews[0m[27m[24m[J[01;32m➜  [36mtemplateViews[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls --color=tty]1;lsallCountries.js  esCountries.js
+[1m[7m%[27m[1m[0m                                                                                ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries/src/scripts/templateViews]1;..templateViews[0m[27m[24m[J[01;32m➜  [36mtemplateViews[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hrrm esCountries.js[1m [0m[0m [?1l>[?2004l
+]2;rm esCountries.js]1;rm[1m[7m%[27m[1m[0m                                                                                ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries/src/scripts/templateViews]1;..templateViews[0m[27m[24m[J[01;32m➜  [36mtemplateViews[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit stat     g  ccd ..[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries/src/scripts]1;..s/src/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccd , ..[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries/src]1;..countries/src[0m[27m[24m[J[01;32m➜  [36msrc[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccd ..[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries]1;..est-countries[0m[27m[24m[J[01;32m➜  [36mclient-side-routing-rest-countries[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit status[?1l>[?2004l
+]2;git status]1;gitOn branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   dist/css/styles.css[m
+	[31mmodified:   dist/index.html[m
+	[31mmodified:   dist/js/bundle.js[m
+	[31mmodified:   dist/js/bundle.js.map[m
+	[31mmodified:   package-lock.json[m
+	[31mmodified:   package.json[m
+	[31mmodified:   src/scripts/app.js[m
+	[31mmodified:   src/styles/main.scss[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31msrc/scripts/templateViews/[m
+	[31msrc/typescript[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries]1;..est-countries[0m[27m[24m[J[01;32m➜  [36mclient-side-routing-rest-countries[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit add .[?1l>[?2004l
+]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries]1;..est-countries[0m[27m[24m[J[01;32m➜  [36mclient-side-routing-rest-countries[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit status[?1l>[?2004l
+]2;git status]1;gitOn branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	[32mmodified:   dist/css/styles.css[m
+	[32mmodified:   dist/index.html[m
+	[32mmodified:   dist/js/bundle.js[m
+	[32mmodified:   dist/js/bundle.js.map[m
+	[32mmodified:   package-lock.json[m
+	[32mmodified:   package.json[m
+	[32mmodified:   src/scripts/app.js[m
+	[32mnew file:   src/scripts/templateViews/allCountries.js[m
+	[32mmodified:   src/styles/main.scss[m
+	[32mnew file:   src/typescript[m
+
+[1m[7m%[27m[1m[0m                                                                                ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries]1;..est-countries[0m[27m[24m[J[01;32m➜  [36mclient-side-routing-rest-countries[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggitcommi      commit - m "Complet [Kaado"[?1l>[?2004l
+]2;git commit - m "Completado"]1;giterror: pathspec '-' did not match any file(s) known to git.
+error: pathspec 'm' did not match any file(s) known to git.
+error: pathspec 'Completado' did not match any file(s) known to git.
+[1m[7m%[27m[1m[0m                                                                                ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries]1;..est-countries[0m[27m[24m[J[01;31m➜  [36mclient-side-routing-rest-countries[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit push -u origin mast [Keer[?1l>[?2004l
+]2;git push -u origin master]1;gitBranch master set up to track remote branch master from origin.
+Everything up-to-date
+[1m[7m%[27m[1m[0m                                                                                ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries]1;..est-countries[0m[27m[24m[J[01;32m➜  [36mclient-side-routing-rest-countries[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[0m[27m[24m[J��E[0m[27m[24m[J[01;32m➜  [36mclient-side-routing-rest-countries[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [Kgit push -u origin master[?1l>[?2004l
+]2;git push -u origin master]1;gitBranch master set up to track remote branch master from origin.
+Everything up-to-date
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                      ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries]1;..est-countries[0m[27m[24m[J[01;32m➜  [36mclient-side-routing-rest-countries[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hggit init[?1l>[?2004l
+]2;git init]1;gitReinitialized existing Git repository in /home/root11/Documents/muktek/assigments/client-side-routing-rest-countries/.git/
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                                                      ]2;root11@localhost: ~/Documents/muktek/assigments/client-side-routing-rest-countries]1;..est-countries[0m[27m[24m[J[01;32m➜  [36mclient-side-routing-rest-countries[00m [01;34mgit:(
