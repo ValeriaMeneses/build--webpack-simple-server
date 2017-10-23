@@ -2,7 +2,6 @@ import request from 'superagent'
 import {Router} from 'director/build/director'
 
 import allCountries from './templateViews/allCountries.js'
-import enCountries from './templateViews/enCountries.js'
 
 const containerCountries = document.querySelector('.countries-container')
 
