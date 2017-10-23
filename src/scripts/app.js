@@ -5,6 +5,18 @@ import allCountries from './templateViews/allCountries.js'
 
 const containerCountries = document.querySelector('.countries-container')
 
+function changeBackground() {
+  let links = document.querySelectorAll('.botones a')
+  for (var i = 0; i < links.length; i++) {
+    links[i].addEventListener('click', function() {
+        for (var i = 0; i < links.length; i++) {
+          links[i].classList.remove('background-blue');
+        };
+        this.className += 'background-blue';
+    });
+    }
+}
+changeBackground();
 
 function showCountries() {
   request
